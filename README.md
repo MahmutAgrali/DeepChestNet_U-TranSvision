@@ -1,5 +1,7 @@
 # DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images 
-#                                                 &
+<p align="center">
+	&
+</p>
 # *U-TranSvision*: Transformer-based deep supervision approach for COVID-19 lesion segmentation on Computed Tomography images
 
 If you use this code, please cite with:
