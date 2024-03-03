@@ -48,3 +48,12 @@ If you use this code, please cite with:
 	* train_test.py: This script includes code lines for training and testing.
 	
 	* utils.py: This script contains several useful functions.
+
+	* utransvision.py: This script includes the U-TranSvision architecture.
+
+	* save_dataset_cov.py: This script save the dataset for pix2pix GAN data augmentation.
+
+	* pix2pix_cov.py: This script trains pix2pix GAN model for data augmentation.
+
+	* predict_cov.py: This script generates sentetic images for data augmenation.
+
