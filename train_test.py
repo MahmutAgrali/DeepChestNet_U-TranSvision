@@ -479,8 +479,11 @@ class Covid19():
         @ return : 
             @@
         """ 
-         
-        if self.ARCH.__eq__("UNet_plus_plus"):                                                                                                    # check architecture for UNet_plus_plus
+        if self.ARCH.__eq__("utransvision"):
+            self.model = utransvision(IMG_HEIGHT=256, IMG_WIDTH=256, IMG_CHANNELS=1)
+            supervision = True 
+
+        elif self.ARCH.__eq__("UNet_plus_plus"):                                                                                                    # check architecture for UNet_plus_plus
          self.model  = UNet_plus_plus(256, 256, 1)                                                                                                  # generate UNet_plus_plus model
 
         elif self.ARCH.__eq__("128"):                                                                                                       # check architecture for unet
