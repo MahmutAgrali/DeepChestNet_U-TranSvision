@@ -57,9 +57,9 @@ SHOW_PLT    = True        # get status of SHOW_PLOT
 IS_GPU      = True       # get status of IS_GPU
 
 # Define parameters
-EPOCHS             = 100 # 279-100 =179        # get epoch
-BATCH_SIZE         = 64 #      # get batch size (The best value is 64)
-ARCH               = "128" # ResUnet_fusion(add11)_high_to_low O_net_proposed        # The Unet Architecture that is for 128 x128 images is more better than the other, also 256x256,512x512 and ResUnet architectures are available 
+EPOCHS             = 100          # get epoch
+BATCH_SIZE         = 64           # get batch size (The best value is 64)
+ARCH               = "utransvision"        # get architecture  
 OPTIMIZER          = "Adam"       # Also SGD, RMSprop, Adam, Adadelta, Adagrad, Adamax, Nadam, Ftrl optimizers are available.
 LEARNING_RATE      = 0.0005       # Only default learning rate for SGD is 0.01, others are 0.001, the best is 0.0005
 MOMENTUM           = 0.9          # Default momentum is 0.0, only SGD and RMSProp are used
