@@ -15,6 +15,18 @@ If you use this code, please cite with:
 }
 ```
 
+```
+@article{augrali2024u,
+  title={U-TranSvision: Transformer-based deep supervision approach for COVID-19 lesion segmentation on Computed Tomography images},
+  author={A{\u{g}}ral{\i}, Mahmut and K{\i}l{\i}{\c{c}}, Volkan},
+  journal={Biomedical Signal Processing and Control},
+  volume={93},
+  pages={106167},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
 
 *This directory contains the codes that are about the DeepChestNet project.
 
