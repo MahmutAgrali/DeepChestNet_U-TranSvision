@@ -1,4 +1,5 @@
-# DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images 
+<b> DeepChestNet: Artificial intelligence approach for COVID-19 detection on computed tomography images 
+</b>
 <p align="center">
 	<b>&</b>
 </p>
