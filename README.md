@@ -35,7 +35,7 @@ If you find this code useful, please cite it:
 
 *This directory contains code related to the COVID-19 project, including the DeepChestNet framework and the U-TranSvision architecture.
 
-********************Files for COVID-19 Project********************	
+********************Files for the COVID-19 project********************	
 
 	* config.py: This script contains the constant for training and testing.
 	
