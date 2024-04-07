@@ -5,7 +5,7 @@
 
 # *U-TranSvision*: Transformer-based deep supervision approach for COVID-19 lesion segmentation on Computed Tomography images
 
-If you use this code, please cite with:
+If you find this code useful, please cite it:
 
 ```
 @article{augrali2023deepchestnet,
@@ -35,7 +35,7 @@ If you use this code, please cite with:
 
 *This directory contains the codes that are about the DeepChestNet project.
 
-*************************FILES (for minbert-default-final-project)*********************	
+********************FILES (for minbert-default-final-project)********************	
 
 	* config.py: This script contains the constant for training and testing.
 	
