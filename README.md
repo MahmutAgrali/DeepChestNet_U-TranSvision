@@ -33,9 +33,9 @@ If you find this code useful, please cite it:
 ```
 
 
-*This directory contains the codes that are about the DeepChestNet project.
+*This directory contains code related to the COVID-19 project, including the DeepChestNet framework and the U-TranSvision architecture.
 
-********************FILES (for minbert-default-final-project)********************	
+********************Files for COVID-19 Project********************	
 
 	* config.py: This script contains the constant for training and testing.
 	
