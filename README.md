@@ -36,6 +36,7 @@ If you use this code, please cite with:
 *This directory contains the codes that are about the DeepChestNet project.
 
 *************************FILES (for minbert-default-final-project)*********************	
+
 	* config.py: This script contains the constant for training and testing.
 	
 	* data_generator.py: This script contains the code that has the data generator to fetch dataset.
